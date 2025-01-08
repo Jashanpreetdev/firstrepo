@@ -1,4 +1,5 @@
 # firstrepo
 This is my first repo
 <br>
-Author-Jashanpreet Singh Dev
+Author-Jashanpreet Singh Dev(GitHub)
+
